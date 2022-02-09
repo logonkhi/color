@@ -1,5 +1,5 @@
 {
-  "name": "color",
+  "name": "@logonkhi/color",
   "version": "4.2.0",
   "description": "Color conversion and manipulation with CSS string support",
   "keywords": [
@@ -13,7 +13,10 @@
     "Maxime Thirouin"
   ],
   "license": "MIT",
-  "repository": "Qix-/color",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logonkhi/color.git"
+  },
   "xo": {
     "rules": {
       "no-cond-assign": 0,
